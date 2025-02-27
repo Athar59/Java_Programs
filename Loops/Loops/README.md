@@ -1,0 +1,10 @@
+-	Basic for Loop – Used when you know how many times to repeat a block of code.
+-	while Loop – Runs as long as a condition is true.
+-	do-while Loop – Similar to while, but runs at least once before checking the condition.
+-	for Loop with Arrays and Collections – Iterates over arrays and collections using for.
+-	for-each Loop – Introduced in Java 5, simplifies looping over arrays and collections.
+-	Nested Loops – Loops inside other loops, often used for 2D arrays and lists.
+-	break and continue – break stops the loop immediately, while continue skips to the next iteration.
+-	Complex Conditions in Loops – Using multiple conditions inside loops for advanced decision-making.
+-	Iterating Over Maps (HashMap, TreeMap) – Looping through keys and values in maps.
+-	Loops in Common Algorithms – Using loops in sorting, searching, and other algorithms.
