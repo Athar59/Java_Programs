@@ -2,7 +2,7 @@
      Use the .length property to find the size of an array.
 
 - Accessing Array Elements
-Use indexes to access specific elements in an array.
+     Use indexes to access specific elements in an array.
      Change an element by assigning a new value to its index.
 
 - Loops and Arrays
@@ -33,7 +33,7 @@ U    se substring(start, end) to extract a part of a string.
     Use == to check if two string variables refer to the same memory location.
     Use equals() to check if two strings have the same content.
 
-StringBuilder and StringBuffer
+- StringBuilder and StringBuffer
     Use StringBuilder for fast string modifications (not thread-safe).
     Use StringBuffer for thread-safe string modifications.
     Use .append(), .insert(), and .replace() to modify strings efficiently.
